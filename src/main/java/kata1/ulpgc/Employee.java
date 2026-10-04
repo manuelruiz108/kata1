@@ -28,4 +28,9 @@ public class Employee {
     public String getId() {
         return id;
     }
+    public String uniqueID() {
+        if(department.length()>=3){return department.substring(0,3) + "-" + id;}
+        return department + "-" + id;
+
+    }
 }
