@@ -28,5 +28,8 @@ public class Employee {
     public String getId() {
         return id;
     }
+    public String uniqueID() {
+        return department.substring(1,3) + "-" + id;
 
+    }
 }
