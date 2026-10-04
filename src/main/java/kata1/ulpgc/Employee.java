@@ -33,4 +33,7 @@ public class Employee {
         return department + "-" + id;
 
     }
+    public String toString() {
+        return name + " " + surname +  " with ID: " + uniqueID() + " works at " +  department;
+    }
 }
