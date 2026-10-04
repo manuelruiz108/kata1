@@ -12,4 +12,21 @@ public class Employee {
         this.department = department;
         this.id = id;
     }
+
+    public String getName() {
+        return name;
+    }
+
+    public String getSurname() {
+        return surname;
+    }
+
+    public String getDepartment() {
+        return department;
+    }
+
+    public String getId() {
+        return id;
+    }
+
 }
