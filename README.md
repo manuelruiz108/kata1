@@ -48,10 +48,10 @@ java -cp out kata1.ulpgc.main
 https://drive.google.com/file/d/1qmcqz9nkNl5y6ZgSeWIvDwV57bqijal2/view?usp=sharing
 
 ## Atajos
-ctrl + k -> commits
-alt + 0 -> commits
-alt + 1 -> jerarquía de ficheros y archivos
-shift + f6 -> refactorización de métodos o atributos
+ctrl + k -> commits  
+alt + 0 -> commits  
+alt + 1 -> jerarquía de ficheros y archivos  
+shift + f6 -> refactorización de métodos o atributos  
 alt + enter -> acciones de contexto y correcciones
 
 ## Repetición de la kata
